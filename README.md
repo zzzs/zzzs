@@ -1,7 +1,7 @@
 - 👋 Hi, I'm xl
-- 👀 I am interested in mountain climbing, NBA, werewolf killing, Texas Hold'em
-- 🌱 I am currently studying decoration
-- 📫 You can contact me via email 863837949@qq.com
+- 👀 I am interested in Javascript、Node.js, and am good at system architecture design.
+- 🌱 Currently using Javascript to build low-code, online rich text editor infrastructure in Hangzhou.
+- ❤️ And If you like Stefanie Sun, then we are friends
 
 <!---
 zzzs/zzzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
